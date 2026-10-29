@@ -3,3 +3,9 @@ A Lung Disease Image Classification System using EfficientNetB0 transfer learnin
 
 
 <img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/84cc33c6-a415-4238-ade2-a4488b9cc8f6" />
+
+
+
+
+<img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/6d7a863b-003c-408d-8a63-059a83dbe22a" />
+
