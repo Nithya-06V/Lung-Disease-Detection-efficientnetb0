@@ -193,3 +193,8 @@ This system is an AI-based screening and educational tool. It is not a substitut
 - The demo uses a simple beginner-friendly CNN approach.
 - The project is designed to work with a real trained model, not random predictions.
 - Update the dataset metadata and class names when using a different dataset or model architecture.
+
+
+
+
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/84cc33c6-a415-4238-ade2-a4488b9cc8f6" />
